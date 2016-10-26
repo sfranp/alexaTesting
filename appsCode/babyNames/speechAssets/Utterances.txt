@@ -1,0 +1,23 @@
+MyNameIsIntent {Name} to {Gender} names
+MyNameIsIntent {Name} to {Gender} list
+MyNameIsIntent add {Name} to {Gender} names
+MyNameIsIntent add {Name} to {Gender} list
+MyNameIsIntent push {Name} to {Gender} names
+MyNameIsIntent push {Name} to {Gender} list
+MyNameIsIntent {Name} to {Gender} name list
+MyNameIsIntent {Name} to {Gender} list of names
+WhatsMyBabyNameIntent say my {Gender} list
+WhatsMyBabyNameIntent tell my {Gender} list
+WhatsMyBabyNameIntent tell me my {Gender} list
+WhatsMyBabyNameIntent what is my {Gender} list
+WhatsMyBabyNameIntent whats my {Gender} list
+WhatsMyBabyNameIntent say my {Gender} list of names
+WhatsMyBabyNameIntent tell my {Gender} list of names
+WhatsMyBabyNameIntent tell me my {Gender} list of names
+WhatsMyBabyNameIntent what is my {Gender} list of names
+WhatsMyBabyNameIntent whats my {Gender} list of names
+WhatsMyBabyNameIntent say my {Gender} names
+WhatsMyBabyNameIntent tell my {Gender} names
+WhatsMyBabyNameIntent tell me my {Gender} names
+WhatsMyBabyNameIntent what is my {Gender} names
+WhatsMyBabyNameIntent whats my {Gender} names

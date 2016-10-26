@@ -1,0 +1,69 @@
+{
+  "session": {
+    "new": false,
+    "sessionId": "session1234",
+    "attributes": {},
+    "user": {
+      "userId": null
+    },
+    "application": {
+      "applicationId": "amzn1.echo-sdk-ams.app.[unique-value-here]"
+    }
+  },
+  "version": "1.0",
+  "request": {
+    "intent": {
+      "slots": {
+        "Name": {
+          "name": "Name",
+          "value": "Sebastian"
+        },
+        "Gender": {
+                  "name": "Gender",
+                  "value": "boy"
+                }
+      },
+      "name": "MyNameIsIntent"
+    },
+    "type": "IntentRequest",
+    "requestId": "request5678"
+  }
+}
+
+
+
+
+{
+  "session": {
+    "new": false,
+    "sessionId": "session1234",
+    "attributes": {
+      "babyNamesHelperData": {
+        "boy": [
+          "Sebastian"
+        ],
+        "girl": []
+      }
+    },
+    "user": {
+      "userId": null
+    },
+    "application": {
+      "applicationId": "amzn1.echo-sdk-ams.app.[unique-value-here]"
+    }
+  },
+  "version": "1.0",
+  "request": {
+    "intent": {
+      "slots": {
+        "Gender": {
+          "name": "Gender",
+          "value": "boy"
+        }
+      },
+      "name": "WhatsMyBabyNameIntent"
+    },
+    "type": "IntentRequest",
+    "requestId": "request5679"
+  }
+}
