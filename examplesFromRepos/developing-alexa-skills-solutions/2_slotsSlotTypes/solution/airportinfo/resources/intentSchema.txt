@@ -1,0 +1,38 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StopIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.CancelIntent",
+      "slots": []
+    },
+    {
+      "intent": "MyNameIsIntent",
+      "slots": [
+        {
+          "name": "Name",
+          "type": "AMAZON.US_FIRST_NAME"
+        },
+        {
+          "name": "Gender",
+          "type": "Gender"
+        }
+      ]
+    },
+    {
+      "intent": "WhatsMyBabyNameIntent",
+      "slots": [
+        {
+          "name": "Gender",
+          "type": "Gender"
+        }
+      ]
+    }
+  ]
+}
